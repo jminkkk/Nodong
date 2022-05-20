@@ -3,6 +3,7 @@
 - HTTPS
   - SSL
   - SSO
+  - Localhost에서 HTTPS 적용하기
 
 
 
